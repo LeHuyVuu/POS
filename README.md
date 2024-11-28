@@ -1,6 +1,5 @@
-# Enhanced README.md content with decorations and effects
 
-# 🛍️ POS Software - README
+# 🛍️ POS Software 
 
 ## 🌟 Overview
 
